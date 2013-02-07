@@ -1,0 +1,8 @@
+{
+  "name": "nasneg/hello-world",
+  "autoload": {
+    "psr-0": {
+      "HelloWorld": "."
+    }
+  }
+}
